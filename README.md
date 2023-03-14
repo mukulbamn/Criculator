@@ -13,7 +13,7 @@ Criculator is a simple web-based cricket simulator that allows users to simulate
 
 ## Getting Started
 
-To get started with Criculator, you just have to open the [Link]().
+To get started with Criculator, you just have to open the [Link](https://criculatorbymukul.netlify.app/).
 If this doesn't works , Open it from the side panel.
 
 ## Usage
