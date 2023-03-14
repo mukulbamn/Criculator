@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #f0e6e9;
+}
+
+.heading{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 1.4rem;
+}
+
+.big-text{
+    font-size: 2rem;
+}
+
+.container{
+    padding: 0;
+    max-width: 90vw;
+    /* margin: 10px ; */
+}
+
+.footer{
+    position:relative;
+    top: 47vh;
+    bottom: 0%;
+}
+.navs,.input,.footer,.minW{
+    min-width: 740px;
+}
